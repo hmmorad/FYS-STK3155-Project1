@@ -8,3 +8,9 @@ wheels/
 
 # Virtual environments
 .venv
+
+# LaTeX auxiliary files
+*/build/
+
+report/main.tex
+report/biblio.bib
